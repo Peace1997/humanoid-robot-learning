@@ -10,7 +10,7 @@ A List for Humanoid Robot Learning.
 
 - [2024.8] **VMP**: Versatile Motion Priors for Robustly Tracking Motion on Physical Characters [[paper](https://la.disneyresearch.com/wp-content/uploads/VMP_paper.pdf)]
 - [2024.6] WoCoCo: Learning Whole-Body Humanoid Control with Sequential Contacts [[paper](https://arxiv.org/abs/2406.06005)]
-- [2022.5] **AMP**: Adversarial Motion Priors for Stylized Physics-Based Character Control   [[paper](https://arxiv.Org/abs/2104.02180)] [[note]()]
+- [2022.5] **AMP**: Adversarial Motion Priors for Stylized Physics-Based Character Control   [[paper](https://arxiv.Org/abs/2104.02180)] [[note](https://github.com/Peace1997/humanoid-robot-learning/blob/main/paper_points/Locomotion.md)]
 
 
 ## Manipulation
@@ -22,7 +22,7 @@ A List for Humanoid Robot Learning.
 ## Locomotion and Manipulation
 
 - [2025.1]  Humanoid Locomotion and Manipulation: Current Progress and Challenges in Control, Planning, and Learning [[paper](https://arxiv.org/abs/2501.02116)]
-- [2024.6] HumanPlus: Humanoid Shadowing and Imitation from Humans [[paper](https://arxiv.org/abs/2406.10454)]
+- [2024.6] HumanPlus: Humanoid Shadowing and Imitation from Humans [[paper](https://arxiv.org/abs/2406.10454)] [[note](https://github.com/Peace1997/humanoid-robot-learning/blob/main/paper_points/Locomotion%20and%20Manipulation.md)]
 
 ## Quadrupedal
 
