@@ -6,23 +6,37 @@ A List for Humanoid Robot Learning.
 
 ## Locomotion
 
-
-
+- [2025.3] NIL: No-data Imitation Learning by Leveraging Pre-trained Video Diffusion Models [[paper](http://arxiv.org/abs/2503.10626)]
+- [2025.3] StyleLoco: Generative Adversarial Distillation  for Natural Humanoid Robot Locomotion [[paper](https://arxiv.org/abs/2503.15082)]
+- [2025.2] Embrace Collisions: Humanoid Shadowing for Deployable Contact-Agnostics Motions [[paper](http://arxiv.org/abs/2502.01465)]
+- [2025.2] HiFAR: Multi-Stage Curriculum Learning for High-Dynamics Humanoid Fall Recovery [[paper](http://arxiv.org/abs/2502.20061)]
+- [2025.2] Learning Humanoid Standing-up Control across Diverse Postures [[paper](http://arxiv.org/abs/2502.08378)]
+- [2025.2] **ASAP**: Aligning Simulation and Real-World Physics for Learning Agile Humanoid Whole-Body Skills [[paper](http://arxiv.org/abs/2502.01143)]
+- [2025.2] HiFAR: Multi-Stage Curriculum Learning for High-Dynamics  Humanoid Fall Recovery [[paper](https://arxiv.org/abs/2502.20061)]
 - [2024.8] **VMP**: Versatile Motion Priors for Robustly Tracking Motion on Physical Characters [[paper](https://la.disneyresearch.com/wp-content/uploads/VMP_paper.pdf)]
 - [2024.6] WoCoCo: Learning Whole-Body Humanoid Control with Sequential Contacts [[paper](https://arxiv.org/abs/2406.06005)]
 - [2022.5] **AMP**: Adversarial Motion Priors for Stylized Physics-Based Character Control   [[paper](https://arxiv.Org/abs/2104.02180)] [[note](https://github.com/Peace1997/humanoid-robot-learning/blob/main/paper_points/Locomotion.md)]
 
 
+## Locomotion and Manipulation
+
+- [2025.3] **FLAM**: Foundation Model-Based Body Stabilization for Humanoid Locomotion and Manipulation[[paper](http://arxiv.org/abs/2503.22249)]
+- [2025.1]  Humanoid Locomotion and Manipulation: Current Progress and Challenges in Control, Planning, and Learning [[paper](https://arxiv.org/abs/2501.02116)]
+- [2024.6] HumanPlus: Humanoid Shadowing and Imitation from Humans [[paper](https://arxiv.org/abs/2406.10454)] [[note](https://github.com/Peace1997/humanoid-robot-learning/blob/main/paper_points/Locomotion%20and%20Manipulation.md)]
+
+## Perceptive and Locomotion 
+
+- [2025.3] Distillation-PPO: A Novel Two-Stage Reinforcement Learning Framework for Humanoid Robot Perceptive Locomotion [[paper](http://arxiv.org/abs/2503.08299)]
+
+
+## Embodied AI 
+
+- [2025.3] **Trinity**: A Modular Humanoid Robot AI System [[paper](http://arxiv.org/abs/2503.08338)]
+
 ## Manipulation
 
 
 - [2024.10] Precise and Dexterous Robotic Manipulation via Human-in-the-Loop Reinforcement Learning [[paper](https://arxiv.org/abs/2410.21845)]
-
-
-## Locomotion and Manipulation
-
-- [2025.1]  Humanoid Locomotion and Manipulation: Current Progress and Challenges in Control, Planning, and Learning [[paper](https://arxiv.org/abs/2501.02116)]
-- [2024.6] HumanPlus: Humanoid Shadowing and Imitation from Humans [[paper](https://arxiv.org/abs/2406.10454)] [[note](https://github.com/Peace1997/humanoid-robot-learning/blob/main/paper_points/Locomotion%20and%20Manipulation.md)]
 
 ## Quadrupedal
 
