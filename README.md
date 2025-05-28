@@ -4,6 +4,17 @@ A List for Humanoid Robot Learning.
 
 ---
 
+## Locomotion and Manipulation
+
+- [2025.5] SMAP : Self-supervised Motion Adaptation for Physically Plausible Humanoid Whole-body Control [[paper]](https://arxiv.org/abs/2505.19463v1)
+- [2025.5] TD-GRPC: Temporal Difference Learning with Group Relative Policy Constraint for Humanoid Locomotion [[paper]](https://arxiv.org/pdf/2505.13549)
+- [2025.5] HuB: Learning Extreme Humanoid Balance [[paper]](https://arxiv.org/pdf/2505.07294) [[note](https://github.com/Peace1997/humanoid-robot-learning/blob/main/paper_points/Locomotion%20and%20Manipulation.md)]
+- [2025.3] **FLAM**: Foundation Model-Based Body Stabilization for Humanoid Locomotion and Manipulation[[paper](http://arxiv.org/abs/2503.22249)]
+- [2025.1]  Humanoid Locomotion and Manipulation: Current Progress and Challenges in Control, Planning, and Learning [[paper](https://arxiv.org/abs/2501.02116)]
+- [2024.6] HumanPlus: Humanoid Shadowing and Imitation from Humans [[paper](https://arxiv.org/abs/2406.10454)] [[note](https://github.com/Peace1997/humanoid-robot-learning/blob/main/paper_points/Locomotion%20and%20Manipulation.md)]
+
+
+
 ## Locomotion
 
 - [2025.3] NIL: No-data Imitation Learning by Leveraging Pre-trained Video Diffusion Models [[paper](http://arxiv.org/abs/2503.10626)]
@@ -17,12 +28,6 @@ A List for Humanoid Robot Learning.
 - [2024.6] WoCoCo: Learning Whole-Body Humanoid Control with Sequential Contacts [[paper](https://arxiv.org/abs/2406.06005)]
 - [2022.5] **AMP**: Adversarial Motion Priors for Stylized Physics-Based Character Control   [[paper](https://arxiv.Org/abs/2104.02180)] [[note](https://github.com/Peace1997/humanoid-robot-learning/blob/main/paper_points/Locomotion.md)]
 
-
-## Locomotion and Manipulation
-
-- [2025.3] **FLAM**: Foundation Model-Based Body Stabilization for Humanoid Locomotion and Manipulation[[paper](http://arxiv.org/abs/2503.22249)]
-- [2025.1]  Humanoid Locomotion and Manipulation: Current Progress and Challenges in Control, Planning, and Learning [[paper](https://arxiv.org/abs/2501.02116)]
-- [2024.6] HumanPlus: Humanoid Shadowing and Imitation from Humans [[paper](https://arxiv.org/abs/2406.10454)] [[note](https://github.com/Peace1997/humanoid-robot-learning/blob/main/paper_points/Locomotion%20and%20Manipulation.md)]
 
 ## Perceptive and Locomotion 
 
