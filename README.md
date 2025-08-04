@@ -5,14 +5,21 @@ A List for Humanoid Robot Learning.
 ---
 
 ## Locomotion and Manipulation
+- [2025.7] EMP: Executable Motion Prior for Humanoid Robot Standing Upper-body Motion Imitation [[paper](http://arxiv.org/abs/2507.15649v1)]
+- [2025.7] Learning Robust Motion Skills via Critical Adversarial Attacks for Humanoid Robots[[paper](https://arxiv.org/pdf/2507.08303)]
+- [2025.7] Learning Humanoid Arm Motion via Centroidal Momentum Regularized Multi-Agent Reinforcement Learning [[paper](https://arxiv.org/pdf/2507.04140v1)]
 - [2025.7] ULC: A Unified and Fine-Grained Controller for Humanoid Loco-Manipulation [[paper](https://arxiv.org/abs/2507.06905)]
-- [2025.5] Unleashing Humanoid Reaching Potential via Real-world-Ready Skill Space   [[paper](https://arxiv.org/abs/2505.20619)]
+- [2025.6] RL from Physical Feedback: Aligning Large Motion Models with Humanoid Control [[paper](https://arxiv.org/pdf/2506.12769v1)]
+- [2025.6] **KungfuBot**: Physics-Based Humanoid Whole-Body Control for Learning Highly-Dynamic Skill [[paper](http://arxiv.org/abs/2507.04140v1)]
+- [2025.6] Attention-Based Map Encoding for Learning Generalized Legged Locomotion [[paper](https://arxiv.org/pdf/2506.09588v1)]
+- [2025.6] SkillBlender: Towards Versatile Humanoid Whole-Body Loco-Manipulation via Skill Blending [[paper](https://arxiv.org/pdf/2506.09366v1)]
+- [2025.5] Unleashing Humanoid Reaching Potential via Real-world-Ready Skill Space   [[paper](https://arxiv.org/pdf/2505.10918)]
 - [2025.5] FALCON: Learning Force-Adaptive Humanoid Loco-Manipulation [[paper](https://arxiv.org/pdf/2505.06776)]
 - [2025.5] AMO: Adaptive Motion Optimization for Hyper-Dexterous Humanoid Whole-Body Control [[paper](https://arxiv.org/abs/2505.03738)]
 - [2025.5] SMAP : Self-supervised Motion Adaptation for Physically Plausible Humanoid Whole-body Control [[paper]](https://arxiv.org/abs/2505.19463v1)
 - [2025.5] TD-GRPC: Temporal Difference Learning with Group Relative Policy Constraint for Humanoid Locomotion [[paper]](https://arxiv.org/pdf/2505.13549)
 - [2025.5] HuB: Learning Extreme Humanoid Balance [[paper]](https://arxiv.org/pdf/2505.07294) [[summary](https://github.com/Peace1997/humanoid-robot-learning/blob/main/paper_summary/Locomotion%20and%20Manipulation.md)]
-- [2025.4] HOMIE: Humanoid Loco-Manipulation with Isomorphic Exoskeleton Cockpit [[paper]](https://homietele.github.io/)
+- [2025.4] **HOMIE**: Humanoid Loco-Manipulation with Isomorphic Exoskeleton Cockpit [[paper]](https://homietele.github.io/)
 - [2025.3] **FLAM**: Foundation Model-Based Body Stabilization for Humanoid Locomotion and Manipulation[[paper](http://arxiv.org/abs/2503.22249)]
 - [2025.1]  Humanoid Locomotion and Manipulation: Current Progress and Challenges in Control, Planning, and Learning [[paper](https://arxiv.org/abs/2501.02116)]
 - [2024.6] HumanPlus: Humanoid Shadowing and Imitation from Humans [[paper](https://arxiv.org/abs/2406.10454)] [[summary](https://github.com/Peace1997/humanoid-robot-learning/blob/main/paper_summary/Locomotion%20and%20Manipulation.md)]
@@ -64,8 +71,8 @@ A List for Humanoid Robot Learning.
 
 ## Open Source
 
-- [2025.2] [HOMIE](https://github.com/OpenRobotLab/OpenHomie) -- 
-OpenRobotLab
+- [2025.6] [PBHC] (https://github.com/TeleHuman/PBHC) -- TeleAI
+- [2025.2] [HOMIE](https://github.com/OpenRobotLab/OpenHomie) -- OpenRobotLab
 - [2024.12]:  [Unitree RL GYM](https://github.com/unitreerobotics/unitree_rl_gym.git) --  Unitree
 - [2024.9]:  [Engineai-Legged-Gym](https://github.com/engineai-robotics/engineai_legged_gym) -- Engineai Robot
 - [2024.3]:  [Humanoid-Gym](https://github.com/roboterax/humanoid-gym.git) -- Shanghai Qi Zhi Institute and RobotEra 
