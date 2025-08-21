@@ -4,7 +4,13 @@ A List for Humanoid Robot Learning.
 
 ---
 
-## Locomotion and Manipulation
+## Whole Body Control
+
+- [2025.8] MASH: Cooperative-Heterogeneous Multi-Agent Reinforcement Learning for Single Humanoid Robot Locomotion [[paper](https://arxiv.org/abs/2508.10423v1)]
+- [2025.8] Robot Trains Robot: Automatic Real-World Policy Adaptation and Learning for Humanoids [[paper](https://arxiv.org/pdf/2508.12252v1)]
+- [2025.8] Towards Immersive Human-X Interaction: A Real-Time Framework for Physically Plausible Motion Synthesis [[paper](https://arxiv.org/abs/2508.02106v1)]
+- [2025.8] **BeyondMimic**: From Motion Tracking to Versatile Humanoid Control via Guided Diffusion [[paper](https://arxiv.org/pdf/2508.08241)]
+- [2025.8] Coordinated Humanoid Robot Locomotion with Symmetry Equivariant Reinforcement Learning Policy [[paper](https://arxiv.org/abs/2508.01247v1)]
 - [2025.7] EMP: Executable Motion Prior for Humanoid Robot Standing Upper-body Motion Imitation [[paper](http://arxiv.org/abs/2507.15649v1)]
 - [2025.7] Learning Robust Motion Skills via Critical Adversarial Attacks for Humanoid Robots[[paper](https://arxiv.org/pdf/2507.08303)]
 - [2025.7] Learning Humanoid Arm Motion via Centroidal Momentum Regularized Multi-Agent Reinforcement Learning [[paper](https://arxiv.org/pdf/2507.04140v1)]
@@ -39,6 +45,11 @@ A List for Humanoid Robot Learning.
 - [2024.8] **VMP**: Versatile Motion Priors for Robustly Tracking Motion on Physical Characters [[paper](https://la.disneyresearch.com/wp-content/uploads/VMP_paper.pdf)]
 - [2024.6] WoCoCo: Learning Whole-Body Humanoid Control with Sequential Contacts [[paper](https://arxiv.org/abs/2406.06005)]
 - [2022.5] **AMP**: Adversarial Motion Priors for Stylized Physics-Based Character Control   [[paper](https://arxiv.Org/abs/2104.02180)] [[note](https://github.com/Peace1997/humanoid-robot-learning/blob/main/paper_summary/Locomotion.md)]
+
+## Planner 
+
+- [2025.8] **BeyondMimic**: From Motion Tracking to Versatile Humanoid Control via Guided Diffusion [[paper](https://arxiv.org/pdf/2508.08241)]
+- [2025.8] End-to-End Humanoid Robot Safe and Comfortable Locomotion Policy [[paper](https://arxiv.org/abs/2508.07611v1)]
 
 
 ## Perceptive and Locomotion 
